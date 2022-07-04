@@ -1,4 +1,4 @@
 @echo off 
-cd E:\unity projects
+cd /d E:\unity projects\UnityFolders
 python UnityFolders.py
 pause
